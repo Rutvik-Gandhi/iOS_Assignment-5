@@ -1,0 +1,123 @@
+{
+    "places": [{
+            "ID": "1",
+            "title": "Sydney Opera House",
+            "description": "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the foreshore of Sydney Harbour, it is widely regarded as one of the world's most famous and distinctive buildings and a masterpiece of 20th century architecture.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipMlSLQH7joE8WSEAb-uEXp5gfIijNOa_AsNwBNe=s1360-w1360-h1020"
+        },
+        {
+            "ID": "2",
+            "title": "Taj Mahal",
+            "description": "The Taj Mahal, is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1631 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipOS5KvKBCLfxQ8_DST4cyMqDieYfPkUUjzzufAN=s1360-w1360-h1020"
+        },
+        {
+            "ID": "3",
+            "title": "Colosseum",
+            "description": "The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipO0jDqEA4d2y-H9bcfOJ3NgTPhpbdFNFdwB3eZu=s1360-w1360-h1020"
+        },
+        {
+            "ID": "4",
+            "title": "Leaning Tower of Pisa",
+            "description": "The Leaning Tower of Pisa, or simply, the Tower of Pisa, is the campanile, or freestanding bell tower, of Pisa Cathedral. It is known for its nearly four-degree lean, the result of an unstable foundation.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipNCVdTcDJAScCRhWktcizQUxYrlj59Ywhv44uKw=s1360-w1360-h1020"
+        },
+        {
+            "ID": "5",
+            "title": "Burj Khalifa",
+            "description": "The Burj Khalifa, known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates. It is known for being the world’s tallest building.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipOHX3Wb5HJCcPhbCgX0_vBYjXPl4Mkv1ejzq4zA=s1360-w1360-h1020"
+        },
+        {
+            "ID": "6",
+            "title": "Empire State Building",
+            "description": "The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. The building was designed by Shreve, Lamb & Harmon and built from 1930 to 1931. Its name is derived from EmpireState, the nickname of the state of New York.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipNVlM5lo7fIJrmvjN4EOrTMiQjDgDyTfw7ATdV6=s1360-w1360-h1020"
+        },
+        {
+            "ID": "7",
+            "title": "Hagia Sophia",
+            "description": "Hagia Sophia, officially the Hagia Sophia Grand Mosque, is a mosque and major cultural and historical site in Istanbul, Turkey. The cathedral was a Greek Orthodox church from 360 AD until the conquest of Constantinople by the Ottoman Empire in 1453. It served as a mosque until 1935, when it became a museum.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipMF_qyDJ6C2asGocIfQvYfCZOO-fSbhK6a9g-FS=s1360-w1360-h1020"
+        },
+        {
+            "ID": "8",
+            "title": "Eiffel Tower",
+            "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipN8prJmgYMoT93wJGEEIJw3yywb8--ZEgMQ24lR=s1360-w1360-h1020"
+        },
+        {
+            "ID": "9",
+            "title": "Lotus Temple",
+            "description": "The Lotus Temple, located in Delhi, India, is a Baháʼí House of Worship that was dedicated in December 1986. Notable for its flowerlike shape, it has become a prominent attraction in the city. Like all other Bahá’í Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipNqM2QtCwB-xe0sjdgL0NoRUznPlF3_xnkqI8b0=s1360-w1360-h1020"
+        },
+        {
+            "ID": "10",
+            "title": "Fallingwater",
+            "description": "Fallingwater is a house designed by the architect Frank Lloyd Wright in 1935 in the Laurel Highlands of southwest Pennsylvania, about 70 miles southeast of Pittsburgh. It is built partly over a waterfall on Bear Run in the Mill Run section of Stewart Township, Fayette County, Pennsylvania.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipMX9txOvaJJdx2arcuMciFUuF3YMRjwjVSz3v-M=s1360-w1360-h1020"
+        },
+        {
+            "ID": "11",
+            "title": "Flatiron Building",
+            "description": "The Flatiron Building, originally the Fuller Building, is a triangular 22-story, 285-foot-tall steel-framed landmarked building at 175 Fifth Avenue in the eponymous Flatiron District neighborhood of the borough of Manhattan in New York City.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipPmq3AwMGW-jfPo7Wf9GrI8RqFktYsHv5YGAITN=s1360-w1360-h1020"
+        },
+        {
+            "ID": "12",
+            "title": "The White House",
+            "description": "The White House is the official residence and workplace of the president of the United States. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C., and has been the residence of every U.S. president since John Adams in 1800.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipPl2SU7CwYrLkHOM_xrpotYIuzahz0LrGCDrkvz=s1360-w1360-h1020"
+        },
+        {
+            "ID": "13",
+            "title": "Dancing House",
+            "description": "The Dancing House, or Fred and Ginger, is the nickname given to the Nationale-Nederlanden building on the Rašínovo nábřeží in Prague, Czech Republic. It was designed by the Croatian-Czech architect Vlado Milunić in cooperation with Canadian-American architect Frank Gehry on a vacant riverfront plot.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipORlJKp1RNwM4hnBZeQ_eqqgfqkO0KPk0mb1nsX=s1360-w1360-h1020"
+        },
+        {
+            "ID": "14",
+            "title": "Big Ben",
+            "description": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, at the north end of the Palace of Westminster in London, England, and the name is frequently extended to refer also to the clock and the clock tower.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipP3iJ3Sa3BAECHVjzkj8bVvKiK0KSlMwSVVCl2V=s1360-w1360-h1020"
+        },
+        {
+            "ID": "15",
+            "title": "Angkor Wat",
+            "description": "Angkor Wat is a temple complex in Cambodia and is the largest religious monument in the world, on a site measuring 162.6 hectares",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipPRG-2yesX2o8ceunAjv17QiuuFH73XlKAL9Oe6=s1360-w1360-h1020"
+        },
+        {
+            "ID": "16",
+            "title": "Guggenheim Museum Bilbao",
+            "description": "The Guggenheim Museum Bilbao is a museum of modern and contemporary art designed by Canadian-American architect Frank Gehry, and located in Bilbao, Basque Country, Spain. The museum was inaugurated on 18 October 1997 by King Juan Carlos I of Spain, with an exhibition of 250 contemporary works of art.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipNmF4YocLkmHeEYGeibrLfS7Z0aUFt5BpiSl_Jj=s1360-w1360-h1020"
+        },
+        {
+            "ID": "17",
+            "title": "Dome of the Rock",
+            "description": "The Dome of the Rock is an Islamic shrine located on the Temple Mount in the Old City of Jerusalem, a site also known to Muslims as the al-Haram al-Sharif or the Al-Aqsa Compound.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipM1MK-k4hffTJQPbIjaqpels8TULawT2dY_utvV=s1360-w1360-h1020"
+        },
+        {
+            "ID": "18",
+            "title": "Cathedral of Brasília",
+            "description": "The Cathedral of Brasília is the Roman Catholic cathedral serving Brasília, Brazil, and serves as the seat of the Archdiocese of Brasília. It was designed by Brazilian architect Oscar Niemeyer and calculated by Brazilian structural engineer Joaquim Cardozo, and was completed and dedicated on May 31, 1970.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipN0qIiZe2SjEkcG7SgBGhYxFJNlz_UXNqO7Zos=s1360-w1360-h1020"
+        },
+        {
+            "ID": "19",
+            "title": "The Great Pyramid of Giza",
+            "description": "The Great Pyramid of Giza is the largest Egyptian pyramid and the tomb of Fourth Dynasty pharaoh Khufu. Built in the early 26th century BC during a period of around 27 years, the pyramid is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipMVJhTAqWISDaR3uyV_W6mfEonawKo2Ch6RRPPx=s1360-w1360-h1020"
+        },
+        {
+            "ID": "20",
+            "title": "Buckingham Palace",
+            "description": "Buckingham Palace is a London royal residence and the administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality.",
+            "imageURL": "https://lh3.googleusercontent.com/p/AF1QipNOkb1K8NaPEocMQKUMLbdRRBvhWzCzfJtzcbA=s1360-w1360-h1020"
+        }
+    ]
+}
